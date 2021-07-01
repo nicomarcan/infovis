@@ -1,1 +1,6 @@
-first word
+Horizon Graphs
+Parallel Coordinates
+Reingold-Tilford
+Sunburst
+Voronoi
+jigsaw treemaps
